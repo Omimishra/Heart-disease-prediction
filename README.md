@@ -20,7 +20,7 @@ This section summarizes the modeling work done in the project.
   - Sequential
 
 - Evaluation metrics
-  - Common metrics used: accuracy and confusion matrices.
+  - Common metrics used: accuracy, precision, recall, f1 score and confusion matrices.
   - 86.81 accuracy
 
 - Tech Stack
