@@ -1,6 +1,7 @@
 # Heart Disease Prediction🫀
 
-This repository contains Jupyter notebooks for a Heart Disease Prediction project. The project explores a heart disease dataset and builds deep learning model to predict the presence of heart disease.
+Heart disease remains one of the leading causes of death worldwide, making early detection crucial for timely treatment and prevention. This project leverages deep learning technique to predict the likelihood of heart disease in patients based on key medical attributes such as age, cholesterol level, resting blood pressure, and maximum heart rate achieved.A Neural Network built with Keras and TensorFlow is trained to classify patients as at risk or not, following a full data science workflow — from data cleaning and EDA to model training and evaluation.
+The goal is to assist healthcare professionals with data-driven risk assessment and early detection of heart disease.
 
 ## Team Members🎯
 - Omi Mishra : 202210101150027
